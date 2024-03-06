@@ -6,6 +6,8 @@ TagManager:
   tags:
   - CinemachineTarget
   - Trash Bag
+  - Grass
+  - Lawnmower
   layers:
   - Default
   - TransparentFX
