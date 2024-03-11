@@ -11,4 +11,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Levels/04-Audio.unity
     guid: b7c8d38cb01360043917bc01e460e9c1
+  - enabled: 1
+    path: Assets/Scenes/Menus/End Menu.unity
+    guid: 1d6ffe24f6642704596f653a14c49bd8
   m_configObjects: {}
